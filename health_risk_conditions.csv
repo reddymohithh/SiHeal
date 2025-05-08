@@ -1,0 +1,2001 @@
+condition,min_temp,max_temp,max_aqi,min_humidity,max_humidity
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Arthritis,5,25,85,20,60
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Cold & Flu,0,20,70,30,65
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Cold & Flu,0,20,70,30,65
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Arthritis,5,25,85,20,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Bronchitis,8,27,78,28,58
+Heart Disease,15,35,100,40,70
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+Heart Disease,15,35,100,40,70
+Bronchitis,8,27,78,28,58
+Cold & Flu,0,20,70,30,65
+Pneumonia,5,25,90,20,70
+Sinusitis,12,26,82,30,60
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Pneumonia,5,25,90,20,70
+Heart Disease,15,35,100,40,70
+Sinusitis,12,26,82,30,60
+Bronchitis,8,27,78,28,58
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Pneumonia,5,25,90,20,70
+Bronchitis,8,27,78,28,58
+Pneumonia,5,25,90,20,70
+Pneumonia,5,25,90,20,70
+COPD,10,28,75,25,55
+Arthritis,5,25,85,20,60
+COPD,10,28,75,25,55
+Cold & Flu,0,20,70,30,65
+Sinusitis,12,26,82,30,60
+Cold & Flu,0,20,70,30,65
+Cold & Flu,0,20,70,30,65
+Bronchitis,8,27,78,28,58
+Sinusitis,12,26,82,30,60
+Arthritis,5,25,85,20,60
+Pneumonia,5,25,90,20,70
+Asthma,10,30,80,30,60
+COPD,10,28,75,25,55
+Heart Disease,15,35,100,40,70
+Asthma,10,30,80,30,60
+Asthma,10,30,80,30,60
