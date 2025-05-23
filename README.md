@@ -1,3 +1,13 @@
+This project focuses on predicting health risks based on real-time environmental conditions such as temperature, humidity, and air quality. Using a Random Forest algorithm, the system analyzes weather inputs and alerts users if they are at risk for specific health conditions like asthma, bronchitis, or heart disease.
+
+The frontend was developed using React, allowing users to enter personal details (name, date of birth, and health conditions). 
+The backend, implemented in Python via Google Colab, uses predefined medical thresholds to compare current weather data with condition-specific limits.
+
+When a match is found between weather data and a user’s risk profile, the system triggers a health alert. 
+The model achieved 95% accuracy on both training and test datasets, making it highly reliable for real-time health notifications.
+
+This project was implemented as part of an academic submission and has potential applications in preventive healthcare systems.
+
 How to run the backend code.
 
 We did the backend code in Python on Google Colab. Here's how you can run it.
